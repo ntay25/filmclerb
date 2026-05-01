@@ -58,7 +58,7 @@ different port.
 
 ## Demo Notes for Judges
 
-- See Demo video here; FYI my wifi was a wonky so 90% of this video is uploading: https://drive.google.com/file/d/1YUkjwyJQ9NP2TAV7Yc4mJtfRGswdR1bI/view?usp=sharing
+- See Demo video here; FYI my wifi was kinda wonky so 90% of this video is uploading: https://drive.google.com/file/d/1YUkjwyJQ9NP2TAV7Yc4mJtfRGswdR1bI/view?usp=sharing
 - Connect FilmClerb to a Sia account/indexer.
 - Upload one video from the New screener section.
 - FilmClerb creates 5 one-day viewer links by default.
